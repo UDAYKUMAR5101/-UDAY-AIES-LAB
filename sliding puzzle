@@ -53,3 +53,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+output:
+None 1 8
+2 3 5
+4 7 6
+Enter move (UP/DOWN/LEFT/RIGHT): UP
+Invalid move. Try again.
+None 1 8
+2 3 5
+4 7 6
